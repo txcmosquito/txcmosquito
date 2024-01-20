@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![GIF](https://media.giphy.com/media/gY8Bs8qvD1EukQBj5V/giphy.gif)
-![GIF]()
+![GIF](https://media.giphy.com/media/gvfpZrR54qd56/giphy.gif)
 
 
 My Name is Devesh!   
