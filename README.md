@@ -3,7 +3,6 @@
 ![GIF](https://media.giphy.com/media/gvfpZrR54qd56/giphy.gif)
 
 My name is Devesh!  
-I'm 23
 
 ```rust
 fn main() {
